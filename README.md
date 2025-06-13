@@ -1,19 +1,26 @@
-<!-- Bannière animée avec votre nom -->
-<div align="center">
-  <img src="![Uploading image.png…]()
-" alt="Bannière DevOps" width="100%"/>
-</div>
-
 <!-- Message de salutation animé -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=FF7F50&center=true&vCenter=true&width=500&lines=✨+Fatima+Zahra+Bourzgui;💻+Full+Stack+%26+DevOps+Engineer;🚀+Building+Scalable+Solutions;🌍+Based+in+Casablanca,+Morocco" alt="Animation de texte" />
-</h1>
-
+<div align="center" style="margin: 30px 0;">
+  <!-- Image rectangulaire avec dimensions contrôlées -->
+  <img src="https://i.pinimg.com/originals/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" 
+       width="800px" 
+       height="300px"
+       style="object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+       alt="Bannière DevOps">
+  
+  <!-- Titre avec style -->
+  <h1 style="color: #FF7F50; margin-top: 20px; font-family: 'Segoe UI', sans-serif;">
+    Bourzgui Fatima Zahra
+  </h1>
+  
+  <!-- Sous-titre -->
+  <p style="font-size: 1.2em; color: #555;">
+    💻 Full Stack Developer | ☁️ DevOps  | 🚀 Building Scalable Solutions
+  </p>
+</div>
 <!-- Badges dynamiques -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bourzguifatimazahra&label=Profile+Views&color=FF69B4&style=flat-square" alt="Vues du profil" /> 
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat-square" />
-  <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg" alt="Coding Time" />
 </p>
 
 <!-- Section "About Me" avec icônes -->
@@ -56,5 +63,5 @@
   };
  ```
 
-<p> <img src="https://img.shields.io/badge/Stack-React%20%7C%20TensorFlow.js%20%7C%20Node.js-blueviolet?style=flat-square"> <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square"> </p> </div><!-- Stats GitHub avec graphiques --><h2 align="center">📊 GitHub Analytics</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bourzguifatimazahra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bourzguifatimazahra&theme=radical&hide_border=true" width="48%"/> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bourzguifatimazahra&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="90%"/> </div><!-- Section Contact avec boutons interactifs --><h2 align="center">📬 Contact</h2> <p align="center"> <a href="mailto:bourzguifatimzahra@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/fatimazahra-bourzgui/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://fzbourzgui.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a> <a href="https://github.com/bourzguifatimazahra"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p><!-- Footer animé --><div align="center"> <img src="https://github.com/bourzguifatimazahra/bourzguifatimazahra/blob/main/assets/wave-footer.svg?raw=true" width="100%"/> <p>✨ <em>Innovating through code</em> ✨</p> </div>
+<p> <img src="https://img.shields.io/badge/Stack-React%20%7C%20TensorFlow.js%20%7C%20Node.js-blueviolet?style=flat-square"> <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square"> </p> </div><!-- Stats GitHub avec graphiques --><h2 align="center">📊 GitHub Analytics</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bourzguifatimazahra&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bourzguifatimazahra&theme=radical&hide_border=true" width="48%"/> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bourzguifatimazahra&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="90%"/> </div><!-- Section Contact avec boutons interactifs --><h2 align="center">📬 Contact</h2> <p align="center"> <a href="mailto:bourzguifatimzahra@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/fatimazahra-bourzgui/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://fzbourzgui.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a> <a href="https://github.com/bourzguifatimazahra"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p><!-- Footer animé --><div align="center"> <img src="https://wallpaperaccess.com/full/3222452.jpg" width="100%"/> <p>✨ <em>Innovating through code</em> ✨</p> </div>
 
