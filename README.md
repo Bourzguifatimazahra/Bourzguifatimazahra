@@ -1,6 +1,7 @@
 <!-- Bannière animée avec votre nom -->
 <div align="center">
-  <img src="https://github.com/bourzguifatimazahra/bourzguifatimazahra/blob/main/assets/banner.gif?raw=true" alt="Bannière DevOps" width="100%"/>
+  <img src="![Uploading image.png…]()
+" alt="Bannière DevOps" width="100%"/>
 </div>
 
 <!-- Message de salutation animé -->
