@@ -9,7 +9,7 @@
   
   <!-- Title -->
   <h1 style="color: #FF7F50; margin-top: 20px; font-family: 'Segoe UI', sans-serif;">
-    Bourzgui Fatima Zahra
+    Hey, I'm Bourzgui Fatima Zahra
   </h1>
   
   <!-- Subtitle -->
