@@ -1,134 +1,202 @@
- <!-- Animated Header -->
-<div align="center" style="margin: 30px 0;">
-  <!-- Banner Image -->
-  <img src="https://i.pinimg.com/originals/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" 
-       width="800px" 
-       height="300px"
-       style="object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-       alt="DevOps Banner">
-  
-  <!-- Title -->
-  <h1 style="color: #FF7F50; margin-top: 20px; font-family: 'Segoe UI', sans-serif;">
-    Hey, I'm Bourzgui Fatima Zahra
-  </h1>
-  
-  <!-- Subtitle -->
-  <p style="font-size: 1.2em; color: #555;">
-    💻 Full Stack Developer | ☁️ DevOps Engineer | 🚀 AI Enthusiast
-  </p>
-</div>
+ # 🚀 Data Analyst & AI Developer
 
-<!-- Dynamic Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bourzguifatimazahra&label=Profile+Views&color=FF69B4&style=flat-square" alt="Profile views" /> 
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Yes-success?style=flat-square" />
-</p>
-
-<!-- About Me Section -->
-<h2 align="center">✨ About Me</h2>
-<p align="center">
-  <em>
-    Passionate technologist specializing in full-stack development and cloud solutions.<br>
-    Focused on building scalable applications with modern architectures and AI integration.<br>
-    Lifelong learner currently exploring generative AI and edge computing.
-  </em>
-</p>
-
-<!-- Skills Grid -->
-<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   
-| **Frontend**            | **Backend**             | **DevOps**              | **Data & AI**          |
-|-------------------------|-------------------------|-------------------------|------------------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) |
-| ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge) |
+![Data Analytics Banner](https://i.pinimg.com/originals/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg)
+
+## 📊 Bourzgui Fatima Zahra
+### Data Analyst | Business Intelligence | AI Developer
+
+[![Email](https://img.shields.io/badge/Email-bourzguifatimzahra@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bourzguifatimzahra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bourzguifatimazahra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://fzbourzgui.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bourzguifatimazahra)
 
 </div>
 
-<!-- Featured Projects -->
-<h2 align="center">🌟 Featured Projects</h2>
+---
 
-### 🎓 AI Learning Plugin
-**Interactive education platform with AI-generated courses**
+## 🎯 Professional Summary
+
+Data Analyst with strong expertise in transforming complex datasets into actionable business insights. Skilled in Python, SQL, Power BI, and statistical analysis. Passionate about building data-driven solutions that drive decision-making and business growth. Strong background in mathematics, software engineering, and artificial intelligence.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Data Analytics & Visualization**
+- **Programming**: Python (Pandas, NumPy, Scikit-learn), R
+- **BI Tools**: Power BI, Tableau, Excel
+- **Database**: SQL, MySQL, PostgreSQL, MongoDB
+- **Statistical Analysis**: Hypothesis Testing, Regression, A/B Testing
+
+### **Machine Learning & AI**
+- Predictive Modeling
+- Natural Language Processing
+- Computer Vision
+- Recommendation Systems
+
+### **Cloud & DevOps**
+- Microsoft Azure (DP-900, AZ-900, AI-900 Certified)
+- Docker, Kubernetes
+- CI/CD Pipelines
+- Terraform
+
+### **Full Stack Development**
+- **Frontend**: React, JavaScript, HTML5, CSS3
+- **Backend**: Node.js, FastAPI, Spring Boot, Laravel
+- **Database Design & Optimization**
+
+---
+
+## 💼 Featured Projects
+
+### 🏠 Real Estate Price Prediction Platform
+**Advanced predictive analytics for Moroccan real estate market**
 
 ```python
-# Example AI course generation
-def generate_course(topic: str, level: str) -> dict:
-    prompt = f"Create comprehensive course about {topic} for {level} level"
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[{"role": "user", "content": prompt}]
-    )
-    return {
-        "content": response.choices[0].message.content,
-        "quiz": generate_quiz(topic, level)
-    }
+# Real estate price prediction engine
+def predict_property_value(location, features, market_trends):
+    """
+    Predict property prices using ensemble machine learning
+    """
+    model = load_optimized_model()
+    prediction = model.predict({
+        'location_features': location,
+        'property_attributes': features,
+        'market_indicators': market_trends
+    })
+    return generate_confidence_interval(prediction)
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20React%20%7C%20OpenAI-blueviolet?style=flat-square"> 
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
-</p>
+**Tech Stack**: Python • Scikit-learn • Streamlit • Power BI • SQL
 
-### 🩺 Digital Rapid Test Reader
-**Computer vision solution for medical test analysis**
+### 📈 E-commerce Analytics Dashboard
+**Comprehensive KPI monitoring and sales intelligence**
 
-```javascript
-async function analyzeTest(image) {
-  const model = await tf.loadGraphModel('model.json');
-  const tensor = preprocessImage(image);
-  const prediction = model.predict(tensor);
-  return formatResults(prediction.dataSync());
-}
-```
+- Automated data cleaning and transformation pipelines
+- Real-time sales performance tracking
+- Customer behavior analysis and segmentation
+- Revenue forecasting models
 
-<p>
-  <img src="https://img.shields.io/badge/Stack-TensorFlow.js%20%7C%20React%20Native%20%7C%20Node.js-blueviolet?style=flat-square"> 
-  <img src="https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square">
-</p>
+**Tech Stack**: Pandas • Power BI • Excel Automation • SQL
 
-<!-- GitHub Analytics Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
+### 🤖 AI-Powered Business Intelligence (Thorfin)
+**Intelligent data exploration and automated reporting**
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+- Natural language query processing
+- Automated insight generation
+- Dynamic visualization creation
+- PDF report generation
 
-   
+**Tech Stack**: OpenAI API • Streamlit • Power BI • Python
 
-  <!-- Streak Stats -->
-  <div style="width: 48%; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bourzguifatimazahra&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak"/>
-  </div>
+### 🎓 Adaptive Learning Recommendation System
+**Personalized educational content delivery**
 
-  <!-- Top Languages -->
-  <div style="width: 48%; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourzguifatimazahra&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=dotfiles" alt="Top Languages"/>
-  </div>
+- Semantic search using vector embeddings
+- RAG (Retrieval-Augmented Generation) architecture
+- Learning path optimization
+- Progress tracking analytics
 
-  <!-- Contribution Graph -->
-  <div style="width: 90%; min-width: 300px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bourzguifatimazahra&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Timeline" alt="Activity Graph"/>
-  </div>
+**Tech Stack**: LangChain • FAISS • Vector Databases • React
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bourzguifatimazahra&theme=radical&hide_border=true)
+ 
 
 </div>
-<!-- Contact Section -->
-<h2 align="center">📬 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:bourzguifatimazahra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fatimazahra-bourzgui/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://fzbourzgui.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/bourzguifatimazahra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
-<!-- Animated Footer -->
+---
+
+## 🏆 Certifications
+
+| Certification | Provider | Focus Area |
+|---------------|----------|------------|
+| **Microsoft Azure Data Fundamentals (DP-900)** | Microsoft | Data Engineering |
+| **Microsoft Azure Fundamentals (AZ-900)** | Microsoft | Cloud Computing |
+| **Microsoft Azure AI Fundamentals (AI-900)** | Microsoft | Artificial Intelligence |
+| **SQL Mastery Program** | 365 Data Science | Database Management |
+| **KPI Analytics Mastery** | 365 Data Science | Business Intelligence |
+
+---
+
+## 📈 Core Competencies
+
+### **Data Analysis & Reporting**
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Statistical modeling and hypothesis testing
+- Dashboard creation and data visualization
+- Automated reporting systems
+
+### **Business Intelligence**
+- KPI development and tracking
+- Performance metrics analysis
+- Trend identification and forecasting
+- Stakeholder reporting
+- Data-driven decision support
+
+### **Machine Learning Applications**
+- Predictive modeling
+- Customer segmentation
+- Sentiment analysis
+- Recommendation systems
+- Anomaly detection
+
+### **Data Engineering**
+- ETL pipeline development
+- Database design and optimization
+- Data warehousing concepts
+- API integration
+- Automation scripting
+
+---
+
+## 🎓 Education & Continuous Learning
+
+- **Strong Mathematical Foundation**
+- **Software Engineering Principles**
+- **Advanced Statistical Methods**
+- **Cloud Computing Technologies**
+- **AI and Machine Learning Algorithms**
+
+---
+
+## 🌟 What I Bring to Your Projects
+
+✅ **End-to-End Data Solutions** - From raw data to actionable insights  
+✅ **Business-Focused Analytics** - Aligning data work with business objectives  
+✅ **Technical Excellence** - Clean, efficient, and scalable code  
+✅ **Clear Communication** - Translating complex findings into understandable insights  
+✅ **Continuous Innovation** - Staying updated with latest tools and methodologies  
+
+---
+
+## 📫 Let's Collaborate!
+
+I'm always open to discussing data analytics projects, machine learning opportunities, or innovative tech solutions. Let's transform your data into strategic advantages!
+
 <div align="center">
-  <p>✨ <em>Building the future one commit at a time</em> ✨</p>
+
+[![Email](https://img.shields.io/badge/📧_Schedule_a_Meeting-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bourzguifatimzahra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_View_My_Experience-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bourzguifatimazahra)
+[![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://fzbourzgui.netlify.app)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Transforming raw data into strategic insights that drive business growth and innovation"*
+
+⭐ **Star my repositories if you find my work interesting!** ⭐
+
 </div>
