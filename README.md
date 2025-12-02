@@ -190,7 +190,7 @@ def predict_property_value(location, features, market_trends):
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ---
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
