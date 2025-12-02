@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Profile Banner](https://i.pinimg.com/originals/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg)
@@ -21,7 +20,7 @@ Passionate Data Analyst and AI Developer with expertise in transforming complex 
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -43,11 +42,11 @@ Passionate Data Analyst and AI Developer with expertise in transforming complex 
 
 | **Data Analytics** | **Machine Learning** | **Cloud & DevOps** | **Full Stack Development** |
 |-------------------|---------------------|-------------------|----------------------------|
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)   | ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)  | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)  | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)| ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| ![ETL](https://img.shields.io/badge/-ETL-FF5722?logo=apacheairflow&logoColor=white)  | ![Computer Vision](https://img.shields.io/badge/-CV-9C27B0?logo=opencv&logoColor=white)   | ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
-| ![Statistics](https://img.shields.io/badge/-Statistics-4CAF50?logo=mathworks&logoColor=white) | ![NLP](https://img.shields.io/badge/-NLP-3F51B5?logo=openai&logoColor=white)    | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)  | ![API](https://img.shields.io/badge/-REST_API-FF9800?logo=postman&logoColor=white) |
-| ![Dashboard](https://img.shields.io/badge/-Dashboard-2196F3?logo=grafana&logoColor=white) | ![Predictive](https://img.shields.io/badge/-Predictive-00BCD4?logo=scikitlearn&logoColor=white)  | ![Security](https://img.shields.io/badge/-Security-FF5252?logo=openssf&logoColor=white) | ![Database](https://img.shields.io/badge/-Database-4169E1?logo=postgresql&logoColor=white)  |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| ![ETL](https://img.shields.io/badge/-ETL-FF5722?logo=apacheairflow&logoColor=white) | ![Computer Vision](https://img.shields.io/badge/-CV-9C27B0?logo=opencv&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
+| ![Statistics](https://img.shields.io/badge/-Statistics-4CAF50?logo=mathworks&logoColor=white) | ![NLP](https://img.shields.io/badge/-NLP-3F51B5?logo=openai&logoColor=white) | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) | ![API](https://img.shields.io/badge/-REST_API-FF9800?logo=postman&logoColor=white) |
+| ![Dashboard](https://img.shields.io/badge/-Dashboard-2196F3?logo=grafana&logoColor=white) | ![Predictive](https://img.shields.io/badge/-Predictive-00BCD4?logo=scikitlearn&logoColor=white) | ![Security](https://img.shields.io/badge/-Security-FF5252?logo=openssf&logoColor=white) | ![Database](https://img.shields.io/badge/-Database-4169E1?logo=postgresql&logoColor=white) |
 | ![KPI](https://img.shields.io/badge/-KPI-FFC107?logo=googleanalytics&logoColor=black) | ![Deployment](https://img.shields.io/badge/-MLOps-0194E2?logo=databricks&logoColor=white) | ![Monitoring](https://img.shields.io/badge/-Monitoring-0078D4?logo=prometheus&logoColor=white) | ![Agile](https://img.shields.io/badge/-Agile-009688?logo=scrum&logoColor=white) |
 
 </div>
@@ -67,6 +66,8 @@ Passionate Data Analyst and AI Developer with expertise in transforming complex 
 
 </div>
 
+---
+
 ## Certifications
 
 ### **Microsoft Azure Certifications**
@@ -74,9 +75,9 @@ Passionate Data Analyst and AI Developer with expertise in transforming complex 
   
 | Certification | Badge | Focus Area | Year |
 |---------------|-------|------------|------|
-| **Azure Data Fundamentals (DP-900)** | <img src="https://img.shields.io/badge/DP--900-Certified-blue" alt="DP-900"> | Data Engineering | 2024 |
-| **Azure Fundamentals (AZ-900)** | <img src="https://img.shields.io/badge/AZ--900-Certified-blue" alt="AZ-900"> | Cloud Computing | 2024 |
-| **Azure AI Fundamentals (AI-900)** | <img src="https://img.shields.io/badge/AI--900-Certified-blue" alt="AI-900"> | Artificial Intelligence | 2024 |
+| **Azure Data Fundamentals (DP-900)** | ![DP-900](https://img.shields.io/badge/DP--900-Certified-blue) | Data Engineering | 2024 |
+| **Azure Fundamentals (AZ-900)** | ![AZ-900](https://img.shields.io/badge/AZ--900-Certified-blue) | Cloud Computing | 2024 |
+| **Azure AI Fundamentals (AI-900)** | ![AI-900](https://img.shields.io/badge/AI--900-Certified-blue) | Artificial Intelligence | 2024 |
 
 </div>
 
@@ -190,17 +191,6 @@ def predict_property_value(location, features, market_trends):
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ---
-## GitHub Statistics
-
-<br/>
-
-<a href="https://github.com/Bourzguifatimazahra">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bourzguifatimazahra&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
 
 ## Professional Values
 
@@ -224,6 +214,20 @@ def predict_property_value(location, features, market_trends):
 
 ---
 
+<div align="center">
+
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bourzguifatimazahra&theme=radical&hide_border=true&background=0D1117)](https://github.com/Bourzguifatimazahra)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bourzguifatimazahra&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/Bourzguifatimazahra)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=bourzguifatimazahra&color=667eea&style=flat-square)
+
+**"Data is the new oil, and I'm the refinery turning it into actionable intelligence."**
+
+</div>
+
+---
+
 ## Contact & Connect
 
 <div align="center">
@@ -234,13 +238,4 @@ def predict_property_value(location, features, market_trends):
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bourzguifatimazahra)
 
 </div>
-
----
-
-<div align="center">
-
-*"Transforming complex data into clear insights and intelligent solutions that drive innovation and measurable business growth"*
-
- **Explore my repositories and star interesting projects!** 
-
-</div>
+ 
