@@ -21,7 +21,7 @@ Passionate Data Analyst and AI Developer with expertise in transforming complex 
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 <div align="center">
 
@@ -191,13 +191,6 @@ def predict_property_value(location, features, market_trends):
 
 ---
 ## GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/Bourzguifatimazahra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bourzguifatimazahra&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bourzguifatimazahra&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
 
 <br/>
 
