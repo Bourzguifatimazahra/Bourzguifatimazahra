@@ -1,4 +1,4 @@
- # 🚀 Data Analyst & AI Developer
+ # Data Analyst & AI Developer
 
 <div align="center">
   
