@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://i.pinimg.com/originals/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg)
+![Profile Banner](https://pin.it/7H0JtxM6T)
 
 ## Bourzgui Fatima Zahra
 ### Data Analyst | Business Intelligence | Full stack Developer
