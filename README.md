@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://pin.it/7H0JtxM6T)
+![Profile Banner](https://img.magnific.com/premium-photo/anime-girl-japanese-shop-with-neon-signs_1282444-148688.jpg?w=740)
 
 ## Bourzgui Fatima Zahra
 ### Data Analyst | Business Intelligence | Full stack Developer
